@@ -1,0 +1,40 @@
+.item {
+    border: 1px solid #f2f2f2;
+    float: left;
+    width: 200px;
+    height: 210px;
+    margin: 5px;
+}
+
+.thumbnail {
+    background: #f2f2f2;
+    text-align: center;
+}
+
+.name {
+    border-bottom: 1px solid #f2f2f2;
+    font-size: 14px;
+    margin: 0;
+    padding: 10px 5px;
+}
+
+.navigation {
+    text-decoration: none;
+    color: black;
+}
+
+.links {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: grey;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.link:before {
+    content: "\25c8\ ";
+}

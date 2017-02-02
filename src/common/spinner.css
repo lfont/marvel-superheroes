@@ -1,0 +1,18 @@
+.spinner {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    height: 150%;
+    width: 100%;
+    margin-top: -16px;
+    margin-left: -8px;
+    overflow: hidden;
+}
+
+.message {
+    position: relative;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+    top: 25%;
+    left: 50%;
+}

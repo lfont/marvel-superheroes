@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "jsx": "React",
+    "strictNullChecks": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

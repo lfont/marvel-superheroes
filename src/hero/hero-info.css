@@ -1,0 +1,50 @@
+.info {
+    width: 848px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.thumbnail {
+    float: left;
+}
+
+.content {
+    float: left;
+    margin-left: 20px;
+    width: 80%;
+}
+
+.head {
+    border: 1px solid #f2f2f2;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.head h1 {
+    font-size: 26px;
+    margin: 0;
+}
+
+.list h2 {
+    font-size: 14px;
+}
+
+.list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.list ul li {
+    border-bottom: 1px solid #f2f2f2;
+    padding: 5px;
+}
+
+.list ul li:first-child {
+    border-top: 1px solid #f2f2f2;
+}
+
+.list ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
